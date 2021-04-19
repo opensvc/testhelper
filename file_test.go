@@ -1,3 +1,5 @@
+// Package testhelper
+//
 package testhelper
 
 import (

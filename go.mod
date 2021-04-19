@@ -1,3 +1,3 @@
-module github.com/cgalibern/testhelper
+module github.com/opensvc/testhelper
 
 go 1.13
