@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-// TempDir create tempora
+// Tempdir create temp dir
 func Tempdir(t *testing.T) (td string, tdCleanup func()) {
 	t.Helper()
 
